@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9f7f7;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    padding-top: 100px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 30px;
+}
+
+
+.top-container{
+    background-color: #dbe2ef;
+    position: relative;
+    padding: 40px;
+    color: #3f72af;
+}
+
+.top-container .profile{
+    margin-top: 50px;
+}
+
+.top-container .profile h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    margin: 20px;
+}
+.top-container .profile p{
+    font-size: 20px;
+}
+.middle-container{
+    color: #112d4e;
+    margin-bottom: 100px;
+    padding-top: 30px;
+}
+.middle-container img{
+    height: 150px;
+}
+.middle-container .skills{
+    margin-top: 50px;
+}
+.middle-container h2{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.middle-container .skill-row{
+    display: inline-block;
+    margin-right: 20px;
+}
+.middle-container p{
+    margin-top: 5px;
+    font-size: 20px;
+}
+.middle-container .hobby{
+    margin-top: 60px;
+}
+.middle-container .hobby-row{
+    display: inline-block;
+    margin-right: 20px;
+}
+.bottom-container{
+    background-color: #dbe2ef;
+    color: #112d4e;
+    padding: 10px;
+}
+.bottom-container p{
+    margin-top: 5px;
+}
+.bottom-container .contact-me{
+    margin: 10px 0 30px;
+}
+.bottom-container a{
+    text-decoration: none;
+}
+.bottom-container .footer-link{
+    background-color: #112d4e;
+    border-radius: 10%;
+    color: #dbe2ef;
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    padding: 3px;
+}
